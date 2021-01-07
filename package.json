@@ -4,6 +4,7 @@
   "author": "mroylance@cricut.com",
   "license": "MIT",
   "dependencies": {
+    "discord.js": "^12.5.1",
     "jsdom": "^16.4.0"
   }
 }
