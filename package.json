@@ -1,0 +1,9 @@
+{
+  "name": "jsdom_fiddle",
+  "version": "0.0.1",
+  "author": "mroylance@cricut.com",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^16.4.0"
+  }
+}
